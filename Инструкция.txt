@@ -1,5 +1,3 @@
-Это простая панель для создания ddos-атак
-
 Использование:
 git clone https://github.com/FixxelRu/ddos-panel/
 cd ddos-panel
