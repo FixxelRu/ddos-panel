@@ -2,6 +2,7 @@
 
 Использование:
 git clone https://github.com/FixxelRu/ddos-panel/
+\n
 cd ddos-panel
 python start.py
 Последующие запуски:
